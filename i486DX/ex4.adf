@@ -1,0 +1,58 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=ex4
+
+[Library]
+ex4=.\ex4.LIB
+
+[$LibMap$]
+ex4=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/80486DX.v=-1
+/80486DX_ALU.v=-1
+/80486DX_IDec.v=-1
+TestBench/tb_80486DX.v=-1
+TestBench/tb_80486DX_runtest.do=-1
+TestBench/tb_80486DXx_settings.txt=-1
+
+[Files.Data]
+.\src\80486DX.v=Verilog Source Code
+.\src\80486DX_ALU.v=Verilog Source Code
+.\src\80486DX_IDec.v=Verilog Source Code
+.\src\TestBench\tb_80486DX.v=Verilog Source Code
+.\src\TestBench\tb_80486DX_runtest.do=Macro
+.\src\TestBench\tb_80486DXx_settings.txt=Text File

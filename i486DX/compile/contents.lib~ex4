@@ -1,0 +1,11 @@
+1708
+~M 1 "./src/80486dx.v" 103 P16C5x
+~A 1 "./src/80486dx.v" 103 P16C5x
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "./src/80486dx_idec.v" 198 P16C5x_IDec
+~A 1 "./src/80486dx_idec.v" 198 P16C5x_IDec
+~M 1 "./src/80486dx_alu.v" 77 P16C5x_ALU
+~A 1 "./src/80486dx_alu.v" 77 P16C5x_ALU
+~M 3 "./src/testbench/tb_80486dx.v" 68 tb_80486DX_v
+~A 1 "./src/testbench/tb_80486dx.v" 68 tb_80486DX_v

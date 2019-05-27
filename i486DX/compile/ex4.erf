@@ -1,0 +1,18 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 35
+MESSAGE "Module P16C5x found in current working library."
+MESSAGE "Pass 2. Processing instantiations."
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 80
+MESSAGE "ELB/DAG code generating."
+MESSAGE "Module \$root found in current working library."
+UPDATEPROGRESS 86
+UPDATEPROGRESS 93
+UPDATEPROGRESS 100
+MESSAGE "Unit top modules: tb_80486DX_v."
+MESSAGE "$root top modules: tb_80486DX_v."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 1[s]."

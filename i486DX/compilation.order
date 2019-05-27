@@ -1,0 +1,4 @@
+.\src\80486DX.v
+.\src\80486DX_ALU.v
+.\src\80486DX_IDec.v
+.\src\TestBench\tb_80486DX.v

@@ -1,0 +1,1 @@
+ -u "C:\Program Files (x86)\Aldec\Active-HDL 7.3\bin/systf.dll" -v20  "c:\My_Designs\ex4\ex4\src\TestBench\tb_80486DX.v"  -cs  -g 5  -l "c:\My_Designs\ex4\ex4\compile\ex4.erf" -r -li "c:\My_Designs\ex4\ex4\compile\ex4.epr" -p "c:\My_Designs\ex4\ex4" 

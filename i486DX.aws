@@ -1,0 +1,12 @@
+[Version]
+Version=7.3
+[Designs]
+ex4=.\ex4\ex4.adf
+[Expand]
+ex4=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

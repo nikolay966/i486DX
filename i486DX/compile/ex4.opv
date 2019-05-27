@@ -1,0 +1,1 @@
+ -work ex4 -lc c:/My_Designs/ex4/library.cfg -fl c:/My_Designs/ex4/ex4/projlib.cfg -o c:/My_Designs/ex4/ex4/compile -l "ex4"
